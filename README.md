@@ -1,6 +1,4 @@
-# QuarentenaDados
-Projeto megaboga da Alura pensando em ajudar pessoas em meio a quarentena.
-https://www.alura.com.br/quarentenadados
+# Estudo de predição das notas de Linguagem e Códigos baseado nas demais notas do Enem  
 
 ## Começando
 Projeto feito em jupyter notebook usando apenas as bibliotecas básicas
